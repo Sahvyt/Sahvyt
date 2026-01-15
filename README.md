@@ -1,11 +1,11 @@
-## Olá! Eu sou o Kauan Melo
+### Olá! Eu sou o Kauan Melo
 
 **Estudante de Engenharia Química → Transição para Ciência da Computação**  
 Unicamp | Campinas, SP
 
 ---
 
-### Sobre mim
+#### Sobre mim
 
 Atualmente no terceiro ano de Engenharia Química na Unicamp, estou em transição para Ciência/Engenharia da Computação. Descobri recentemente minha paixão por programação e desenvolvimento de software, tenho me dedicado intensamente ao aprendizado desde então.
 
@@ -13,7 +13,7 @@ Busco oportunidades de **estágio em desenvolvimento de software** para aplicar 
 
 ---
 
-### Stack Atual
+#### Stack Atual
 
 **Linguagens:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,7 +29,7 @@ Lógica de programação • Estruturas de dados • Orientação a objetos • 
 
 ---
 
-### Aprendendo Agora
+#### Aprendendo Agora
 
 - Desenvolvimento Web (Flask/FastAPI)
 - Interfaces gráficas (Tkinter)
@@ -41,30 +41,14 @@ Backend Web → Frontend básico → Full Stack → Integração com IA
 
 ---
 
-### Projetos em Destaque
+#### Projetos em Destaque
 
-#### [Gerenciador de Tarefas CLI](https://github.com/Sahvyt/gerenciador-tarefas-python)
+##### [Gerenciador de Tarefas CLI](https://github.com/Sahvyt/gerenciador-tarefas-python)
 Sistema de gerenciamento de tarefas desenvolvido em Python com foco em aprendizado progressivo.
-
-**Features:**
-- Sistema de IDs únicos e permanentes
-- Operações CRUD completas
-- Filtragem e organização de tarefas
-- Persistência em JSON
-- Menu hierárquico intuitivo
-
-**Em desenvolvimento:**
-- Operações em lote
-- Sistema de timestamps
-- Versão desktop (GUI)
-- Versão web
-- Integração com IA
-
-**Tecnologias:** Python 3.10+ • JSON • Git/GitHub
 
 ---
 
-### Contato
+#### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-melo-8b72a0305/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sahvyt)
