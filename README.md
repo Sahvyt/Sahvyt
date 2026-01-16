@@ -1,59 +1,72 @@
-### Olá! Eu sou o Kauan Melo
+# Kauan Melo
 
-**Estudante de Engenharia Química → Transição para Ciência da Computação**  
-Unicamp | Campinas, SP
+Estudante de Engenharia Química na Unicamp em transição para Ciência / Engenharia da Computação, com foco em desenvolvimento de software e aprendizado prático de fundamentos sólidos.
 
----
-
-#### Sobre mim
-
-Atualmente no terceiro ano de Engenharia Química na Unicamp, estou em transição para Ciência/Engenharia da Computação. Descobri recentemente minha paixão por programação e desenvolvimento de software, tenho me dedicado intensamente ao aprendizado desde então.
-
-Busco oportunidades de **estágio em desenvolvimento de software** para aplicar e expandir meus conhecimentos práticos.
+Atualmente busco oportunidades de **estágio em desenvolvimento de software**, onde eu possa aplicar lógica de programação, organização de código e boas práticas enquanto continuo evoluindo tecnicamente.
 
 ---
 
-#### Stack Atual
-
-**Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Ferramentas:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**Conceitos:**  
-Lógica de programação • Estruturas de dados • Orientação a objetos • Git workflow • Versionamento de código
+## Formação
+- Engenharia Química — Unicamp (em andamento)
+- Transição ativa para Ciência / Engenharia da Computação
 
 ---
 
-#### Aprendendo Agora
+## Stack Atual
 
-- Desenvolvimento Web (Flask/FastAPI)
-- Interfaces gráficas (Tkinter)
+**Linguagem**
+- Python
+
+**Ferramentas**
+- Git
+- GitHub
+- Linux
+- VS Code
+
+**Conceitos**
+- Lógica de programação
+- Estruturas de dados básicas
+- Organização de código em funções
+- Versionamento com Git (branches, PRs, merges)
+- Desenvolvimento de aplicações CLI
+
+---
+
+## Aprendendo Atualmente
+- Desenvolvimento Backend (Flask / FastAPI)
+- Interfaces gráficas com Tkinter
 - Boas práticas de desenvolvimento
-- Arquitetura de software
-
-**Roadmap 2026:**  
-Backend Web → Frontend básico → Full Stack → Integração com IA
+- Arquitetura e organização de software
 
 ---
 
-#### Projetos em Destaque
+## Projeto em Destaque
 
-##### [Gerenciador de Tarefas CLI](https://github.com/Sahvyt/gerenciador-tarefas-python)
-Sistema de gerenciamento de tarefas desenvolvido em Python com foco em aprendizado progressivo.
+### Gerenciador de Tarefas (CLI)
+
+Aplicação em Python desenvolvida com foco em aprendizado progressivo e boas práticas.
+
+**Principais pontos:**
+- Sistema de IDs únicos e permanentes
+- Operações em lote (adicionar, remover e concluir tarefas)
+- Persistência em arquivo JSON
+- Validação de dados ao carregar e salvar
+- Rollback manual em caso de erro
+- Interface via terminal com menus hierárquicos
+
+Projeto utilizado como base para praticar lógica, estruturação de código e tomada de decisões técnicas.
 
 ---
 
-#### Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-melo-8b72a0305/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sahvyt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:k275542@dac.unicamp.br)
+## Objetivo
+Construir uma base sólida em desenvolvimento de software, evoluindo de aplicações CLI para sistemas backend e, futuramente, aplicações full stack.
 
 ---
 
-> "Aprendendo uma linha de código por vez"
+## Contato
+- GitHub: https://github.com/Sahvyt
+- LinkedIn: https://www.linkedin.com/in/kauan-melo-8b72a0305/
+
+---
+
+> Aprendendo uma linha de código por vez.
