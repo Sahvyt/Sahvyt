@@ -1,4 +1,4 @@
-## Kauan Melo 🧠
+## 🧠 Kauan Melo 
 
 Estudante de Engenharia Química na Unicamp em transição para Ciência / Engenharia da Computação, com foco em desenvolvimento de software e aprendizado prático de fundamentos sólidos.
 
