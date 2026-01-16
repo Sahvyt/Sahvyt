@@ -29,6 +29,7 @@ Atualmente busco oportunidades de **estágio em desenvolvimento de software**, o
 - Organização de código em funções
 - Versionamento com Git (branches, PRs, merges)
 - Desenvolvimento de aplicações CLI
+- Programação modular
 
 ---
 
@@ -42,13 +43,11 @@ Atualmente busco oportunidades de **estágio em desenvolvimento de software**, o
 
 ### Projeto em Destaque
 
-#### Gerenciador de Tarefas (CLI)
+#### [Gerenciador de Tarefas (CLI)](https://github.com/Sahvyt/gerenciador-tarefas-python)
 
 Aplicação em Python desenvolvida com foco em aprendizado progressivo e boas práticas.
 
 **Principais pontos:**
-- Sistema de IDs únicos e permanentes
-- Operações em lote (adicionar, remover e concluir tarefas)
 - Persistência em arquivo JSON
 - Validação de dados ao carregar e salvar
 - Rollback manual em caso de erro
