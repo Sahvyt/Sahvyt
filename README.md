@@ -64,8 +64,7 @@ Construir uma base sólida em desenvolvimento de software, evoluindo de aplicaç
 ---
 
 ### Contato
-- GitHub: https://github.com/Sahvyt
-- LinkedIn: https://www.linkedin.com/in/kauan-melo-8b72a0305/
+[GitHub](https://github.com/Sahvyt) • [LinkedIn](https://www.linkedin.com/in/kauan-melo-8b72a0305/)
 
 ---
 
