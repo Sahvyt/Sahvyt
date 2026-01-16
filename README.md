@@ -1,4 +1,4 @@
-# Kauan Melo
+## Kauan Melo
 
 Estudante de Engenharia Química na Unicamp em transição para Ciência / Engenharia da Computação, com foco em desenvolvimento de software e aprendizado prático de fundamentos sólidos.
 
@@ -6,13 +6,13 @@ Atualmente busco oportunidades de **estágio em desenvolvimento de software**, o
 
 ---
 
-## Formação
+### Formação
 - Engenharia Química — Unicamp (em andamento)
 - Transição ativa para Ciência / Engenharia da Computação
 
 ---
 
-## Stack Atual
+### Stack Atual
 
 **Linguagem**
 - Python
@@ -32,7 +32,7 @@ Atualmente busco oportunidades de **estágio em desenvolvimento de software**, o
 
 ---
 
-## Aprendendo Atualmente
+### Aprendendo Atualmente
 - Desenvolvimento Backend (Flask / FastAPI)
 - Interfaces gráficas com Tkinter
 - Boas práticas de desenvolvimento
@@ -40,9 +40,9 @@ Atualmente busco oportunidades de **estágio em desenvolvimento de software**, o
 
 ---
 
-## Projeto em Destaque
+### Projeto em Destaque
 
-### Gerenciador de Tarefas (CLI)
+#### Gerenciador de Tarefas (CLI)
 
 Aplicação em Python desenvolvida com foco em aprendizado progressivo e boas práticas.
 
@@ -58,15 +58,15 @@ Projeto utilizado como base para praticar lógica, estruturação de código e t
 
 ---
 
-## Objetivo
+### Objetivo
 Construir uma base sólida em desenvolvimento de software, evoluindo de aplicações CLI para sistemas backend e, futuramente, aplicações full stack.
 
 ---
 
-## Contato
+### Contato
 - GitHub: https://github.com/Sahvyt
 - LinkedIn: https://www.linkedin.com/in/kauan-melo-8b72a0305/
 
 ---
 
-> Aprendendo uma linha de código por vez.
+> Construindo fundamentos sólidos em desenvolvimento de software.
